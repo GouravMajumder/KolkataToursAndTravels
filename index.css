@@ -1,0 +1,197 @@
+.heading
+{
+    /* border: 5px solid rgb(255, 0, 0); */
+    height: 140px;
+    box-sizing: border-box;
+    width:auto;
+}
+#icon1
+{
+    width: 20%;
+}
+.head
+{
+    /* border: 3px solid black; */
+    display: inline-block;
+    height: 130px;
+    box-sizing: border-box;
+    padding: 2px 2px;
+    margin: 2px 2px;
+}
+#heading
+{
+    float: right;
+    width: 78%;
+}
+#headicon
+{
+    width: 180px;
+    height: 110px;
+    display: block;
+    margin: auto;
+    padding: 25px;
+}
+#dep
+{
+    text-align: center;
+    color: rgb(63, 6, 6);
+    /* font-weight: bold; */
+    font-family:  'Roboto Slab', serif, italic, cursive;
+    font-size: 2.5em;
+    padding: 30px 2px;
+    margin: 1px;
+}
+.navbar
+{
+    background-color: rgba(0,0,0,1);
+    border-radius: 10px;
+}
+.navbar li
+{
+    float: left;
+    margin: 15px 15px;
+}
+.navbar ul
+{
+    overflow: auto;
+    list-style: none;
+    margin: 68px;
+}
+.navbar li a
+{
+    padding: 10px 10px;
+    margin: 5px 5px;
+    text-decoration: none;
+    color: ghostwhite;
+    font-size: 1.5em;
+}
+.navbar li a:hover
+{
+    background-color: blanchedalmond;
+    color: rgb(48, 3, 3);
+    font-weight: bold;
+    border-radius: 10px
+}
+.search
+{
+    color: ghostwhite;
+    float: right;
+    padding: 5px 5px;
+    margin: 12px 60px;
+}
+.navbar input
+{
+    border: 2px solid black;
+    border-radius: 25px;
+    padding:-1px 15px;
+    width: 190px;
+}
+#bodyimage
+{
+    background: url('./HowrahBridge.jpg');
+    background-size: 1550px;
+    width: 99.5%;
+    height: 696px;
+    background-repeat: no-repeat;
+    /* border: 5px solid rgb(255, 0, 0); */
+    margin: -64px auto;
+    border-radius: 15px;
+}
+#midline
+{
+    text-align: center;
+    box-sizing: border-box;
+    /* border: 3px solid white; */
+    position: relative;
+    top: 470px;
+    font-size: 3em;
+    font-weight: bold;
+    font-family: 'Roboto Slab','Courier New', Courier, monospace, serif;
+    color: ghostwhite;
+}
+#midline1
+{
+    text-align: center;
+    box-sizing: border-box;
+    /* border: 3px solid white; */
+    position: relative;
+    top: 480px;
+    font-size: 2em;
+    /* font-weight: bold; */
+    font-family: 'Roboto Slab','Courier New', Courier, monospace, serif;
+    color: ghostwhite;
+}
+.container
+{
+    margin-top: 75px;
+    /* border: 5px solid blue; */
+    width: auto;
+    box-sizing: border-box;
+}
+.cont
+{
+    border-bottom: 4px solid gray;
+    border-radius: 15px;
+    margin: 10px;
+    width: 475px;
+    height: auto;
+    box-sizing: border-box;
+    display: inline-block;
+    background-color: rgb(253, 247, 247);
+}
+.footer
+{
+    background-color: black;
+    margin: auto;
+    width: auto;
+    height: 40px;
+    border-radius: 10px;
+}
+#foot
+{
+    color: ghostwhite;
+    text-align: center;
+    position: relative;
+    top: 12px;
+}
+.img
+{
+    width: 100%;
+    height: 300px;
+    display: block;
+    margin: auto;
+    border-radius: 20px;
+}
+.discover
+{
+    /* border: 3px solid maroon; */
+    display: inline-block;
+    text-align: center;
+    font-size: 1.2em;
+    position: relative;
+    margin-left: 132px;
+    margin-bottom: 15px;
+    margin-top: 10px;
+    cursor: pointer;
+    background-color: rgb(231, 106, 60);
+    border-radius: 15px;
+    /* font-weight: bold; */
+    font-family:cursive;
+    width: 200px;
+    color: ghostwhite;
+    border-bottom: 4px solid rgb(65, 62, 62);
+}
+.discover:hover
+{
+    background-color: rgb(46, 2, 2);
+    color:rgb(231, 106, 60);
+}
+.con
+{
+    color: rgb(75, 7, 7);
+    font-size: 1em;
+    font-weight: bold;
+    font-family: cursive;
+}
+
+/* Responsiveness */

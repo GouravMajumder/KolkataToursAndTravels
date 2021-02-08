@@ -1,0 +1,91 @@
+.heading
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+#headicon
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+#dep
+{
+    margin: auto;
+    padding: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 10px;
+    margin-top: 12px;
+    margin-left: 54px;
+}
+.navbar
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 28px;
+}
+header
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+#bodyimage
+{
+    height: 900px;
+    width: 100vw;
+}
+.container
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    margin-left: 10px;
+}
+/* .cont
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: auto;
+    margin: auto;
+} */
+/* .imge
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 99.5%;
+} */
+.discover
+{
+    width: 148px;
+}
+.footer
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    /* height: 20px; */
+}
+#foot
+{
+    margin-top: 0;
+    align-items: center;
+    justify-content: center;
+}

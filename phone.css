@@ -1,0 +1,59 @@
+.heading
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+#headicon
+{
+    margin: -33px;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 12px;
+}
+#dep
+{
+    margin: auto;
+    padding: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;
+    margin-top: 21px;
+}
+.container
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.navbar
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+}
+.navbar ul
+{
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}
+.navbar li a
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#bodyimage
+{
+    margin-top: -35px;
+}
